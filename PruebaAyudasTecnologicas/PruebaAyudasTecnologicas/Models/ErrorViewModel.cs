@@ -1,4 +1,4 @@
-namespace PruebaAyudasTecnologicas.Models
+namespace AyudasTecnologicas.Models
 {
     public class ErrorViewModel
     {

@@ -1,11 +1,11 @@
-﻿using AyudasTecnologicas.DAL.Entities;
-using AyudasTecnologicas.DAL;
-using AyudasTecnologicas.Enum;
-using AyudasTecnologicas.Helpers;
-using AyudasTecnologicas.Models;
-using AyudasTecnologicas.Common;
+﻿using PruebaAyudasTecnologicas.DAL.Entities;
+using PruebaAyudasTecnologicas.DAL;
+using PruebaAyudasTecnologicas.Enum;
+using PruebaAyudasTecnologicas.Helpers;
+using PruebaAyudasTecnologicas.Models;
+using PruebaAyudasTecnologicas.Common;
 
-namespace AyudasTecnologicas.servicios
+namespace PruebaAyudasTecnologicas.servicios
 {
     public class OrderHelper : IOrderHelper
     {

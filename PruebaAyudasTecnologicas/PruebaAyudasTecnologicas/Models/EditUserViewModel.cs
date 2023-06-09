@@ -1,9 +1,9 @@
-﻿using AyudasTecnologicas.DAL.Entities;
+﻿using PruebaAyudasTecnologicas.DAL.Entities;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.ComponentModel.DataAnnotations;
-using AyudasTecnologicas.Utilities;
+using PruebaAyudasTecnologicas.Utilities;
 
-namespace AyudasTecnologicas.Models
+namespace PruebaAyudasTecnologicas.Models
 {
     public class EditUserViewModel : Entity
     {

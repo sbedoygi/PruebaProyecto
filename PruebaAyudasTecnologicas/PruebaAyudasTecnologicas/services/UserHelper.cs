@@ -1,10 +1,11 @@
-﻿using AyudasTecnologicas.DAL.Entities;
-using AyudasTecnologicas.DAL;
-using AyudasTecnologicas.Helpers;
+﻿using PruebaAyudasTecnologicas.DAL.Entities;
+using PruebaAyudasTecnologicas.DAL;
+using PruebaAyudasTecnologicas.Helpers;
 using Microsoft.AspNetCore.Identity;
-using AyudasTecnologicas.Models;
+using PruebaAyudasTecnologicas.Models;
+using Microsoft.EntityFrameworkCore;
 
-namespace AyudasTecnologicas.servicios
+namespace PruebaAyudasTecnologicas.servicios
 {
     public class UserHelper : IUserHelper
     {

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace AyudasTecnologicas.DAL.Entities
+namespace PruebaAyudasTecnologicas.DAL.Entities
 {
     public class TemporalService : Entity
     {

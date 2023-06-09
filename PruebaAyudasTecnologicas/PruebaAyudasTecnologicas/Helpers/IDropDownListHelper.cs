@@ -1,7 +1,7 @@
-﻿using AyudasTecnologicas.DAL.Entities;
+﻿using PruebaAyudasTecnologicas.DAL.Entities;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace AyudasTecnologicas.Helpers
+namespace PruebaAyudasTecnologicas.Helpers
 {
     public interface IDropDownListHelper
     {

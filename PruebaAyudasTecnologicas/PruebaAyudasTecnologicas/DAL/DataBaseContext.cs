@@ -1,8 +1,8 @@
-﻿using AyudasTecnologicas.DAL.Entities;
+﻿using PruebaAyudasTecnologicas.DAL.Entities;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace AyudasTecnologicas.DAL
+namespace PruebaAyudasTecnologicas.DAL
 {
     public class DataBaseContext : IdentityDbContext<User>
     {

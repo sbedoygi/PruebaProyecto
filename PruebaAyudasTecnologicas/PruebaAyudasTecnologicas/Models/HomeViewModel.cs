@@ -1,7 +1,7 @@
-﻿using AyudasTecnologicas.DAL.Entities;
+﻿using PruebaAyudasTecnologicas.DAL.Entities;
 
 
-namespace AyudasTecnologicas.Models
+namespace PruebaAyudasTecnologicas.Models
 {
     public class HomeViewModel
     {

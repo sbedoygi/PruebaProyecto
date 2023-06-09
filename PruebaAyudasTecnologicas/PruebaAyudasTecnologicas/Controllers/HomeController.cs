@@ -1,8 +1,8 @@
-﻿using AyudasTecnologicas.Models;
+﻿using PruebaAyudasTecnologicas.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace AyudasTecnologicas.Controllers
+namespace PruebaAyudasTecnologicas.Controllers
 {
     public class HomeController : Controller
     {

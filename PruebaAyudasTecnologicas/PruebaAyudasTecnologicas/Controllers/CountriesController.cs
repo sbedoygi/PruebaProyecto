@@ -1,12 +1,12 @@
-﻿using AyudasTecnologicas.DAL.Entities;
-using AyudasTecnologicas.DAL;
-using AyudasTecnologicas.Models;
+﻿using PruebaAyudasTecnologicas.DAL.Entities;
+using PruebaAyudasTecnologicas.DAL;
+using PruebaAyudasTecnologicas.Models;
 
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace AyudasTecnologicas.Controllers
+namespace PruebaAyudasTecnologicas.Controllers
 {
     [Authorize(Roles = "Admin")]
     public class CountriesController : Controller

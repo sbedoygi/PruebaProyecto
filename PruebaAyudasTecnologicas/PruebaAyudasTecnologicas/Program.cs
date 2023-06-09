@@ -1,8 +1,8 @@
-using AyudasTecnologicas.DAL;
-using AyudasTecnologicas.DAL.Entities;
-using AyudasTecnologicas.Helpers;
-using AyudasTecnologicas.services;
-using AyudasTecnologicas.servicios;
+using PruebaAyudasTecnologicas.DAL;
+using PruebaAyudasTecnologicas.DAL.Entities;
+using PruebaAyudasTecnologicas.Helpers;
+using PruebaAyudasTecnologicas.services;
+using PruebaAyudasTecnologicas.servicios;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.EntityFrameworkCore;
@@ -37,7 +37,7 @@ builder.Services.AddScoped<IDropDownListHelper, DropDownListHelper>();
 //Builder para llamar la interfaz IDropDownListHelper.cs
 builder.Services.AddScoped<IAzureBlobHelper, AzureBlobHelper>();
 
-//Builder para llamar la interfaz IOrderHelper.cs
+///Builder para llamar la interfaz IOrderHelper.cs
 builder.Services.AddScoped<IOrderHelper, OrderHelper>();
 
 var supportedCultures = new[]

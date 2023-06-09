@@ -1,4 +1,4 @@
-﻿namespace AyudasTecnologicas.Enum
+﻿namespace PruebaAyudasTecnologicas.Enum
 {
     public enum UserType
     {

@@ -1,8 +1,8 @@
-﻿using AyudasTecnologicas.Controllers;
-using AyudasTecnologicas.DAL;
-using AyudasTecnologicas.DAL.Entities;
-using AyudasTecnologicas.Helpers;
-using AyudasTecnologicas.Models;
+﻿using PruebaAyudasTecnologicas.Controllers;
+using PruebaAyudasTecnologicas.DAL;
+using PruebaAyudasTecnologicas.DAL.Entities;
+using PruebaAyudasTecnologicas.Helpers;
+using PruebaAyudasTecnologicas.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore;
 using System.Data;
 
 
-namespace AyudasTecnologicas.Controllers
+namespace PruebaAyudasTecnologicas.Controllers
 {
     [Authorize(Roles = "Admin")]
     public class TechnicalServicesController : Controller

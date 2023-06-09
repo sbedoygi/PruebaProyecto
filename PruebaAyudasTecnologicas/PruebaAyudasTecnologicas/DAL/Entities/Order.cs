@@ -1,8 +1,8 @@
-﻿using AyudasTecnologicas.Enum;
+﻿using PruebaAyudasTecnologicas.Enum;
 using System.ComponentModel.DataAnnotations;
 using System.Xml.Linq;
 
-namespace AyudasTecnologicas.DAL.Entities
+namespace PruebaAyudasTecnologicas.DAL.Entities
 {
     public class Order : Entity
     {

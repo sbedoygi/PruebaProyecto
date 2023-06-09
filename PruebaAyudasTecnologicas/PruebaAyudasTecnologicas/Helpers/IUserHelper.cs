@@ -1,7 +1,7 @@
-﻿using AyudasTecnologicas.DAL.Entities;
+﻿using PruebaAyudasTecnologicas.DAL.Entities;
 using Microsoft.AspNetCore.Identity;
 
-namespace AyudasTecnologicas.Helpers
+namespace PruebaAyudasTecnologicas.Helpers
 {
     public interface IUserHelper
     {

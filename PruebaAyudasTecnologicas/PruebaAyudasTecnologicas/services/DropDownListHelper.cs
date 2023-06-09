@@ -1,10 +1,10 @@
-﻿using AyudasTecnologicas.DAL;
-using AyudasTecnologicas.DAL.Entities;
-using AyudasTecnologicas.Helpers;
+﻿using PruebaAyudasTecnologicas.DAL;
+using PruebaAyudasTecnologicas.DAL.Entities;
+using PruebaAyudasTecnologicas.Helpers;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 
-namespace AyudasTecnologicas.servicios
+namespace PruebaAyudasTecnologicas.servicios
 {
     public class DropDownListHelper : IDropDownListHelper
     {

@@ -1,7 +1,7 @@
-﻿using AyudasTecnologicas.Enum;
+﻿using PruebaAyudasTecnologicas.Enum;
 using System.ComponentModel.DataAnnotations;
 
-namespace AyudasTecnologicas.Models
+namespace PruebaAyudasTecnologicas.Models
 {
     public class AddUserViewModel : EditUserViewModel
     {

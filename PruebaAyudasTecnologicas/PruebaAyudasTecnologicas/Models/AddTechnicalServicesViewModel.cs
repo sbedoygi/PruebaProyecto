@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 
 
 
-namespace AyudasTecnologicas.Models
+namespace PruebaAyudasTecnologicas.Models
 {
     public class AddTechnicalServicesViewModel
     {

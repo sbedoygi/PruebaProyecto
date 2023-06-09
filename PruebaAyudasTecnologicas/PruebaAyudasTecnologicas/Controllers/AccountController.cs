@@ -1,14 +1,14 @@
-﻿using AyudasTecnologicas.DAL.Entities;
-using AyudasTecnologicas.DAL;
-using AyudasTecnologicas.Enum;
-using AyudasTecnologicas.Helpers;
-using AyudasTecnologicas.Models;
+﻿using PruebaAyudasTecnologicas.DAL.Entities;
+using PruebaAyudasTecnologicas.DAL;
+using PruebaAyudasTecnologicas.Enum;
+using PruebaAyudasTecnologicas.Helpers;
+using PruebaAyudasTecnologicas.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using AyudasTecnologicas.services;
+using PruebaAyudasTecnologicas.services;
 
-namespace AyudasTecnologicas.Controllers
+namespace PruebaAyudasTecnologicas.Controllers
 {
     public class AccountController : Controller
     {

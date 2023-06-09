@@ -1,4 +1,4 @@
-﻿namespace AyudasTecnologicas.Common
+﻿namespace PruebaAyudasTecnologicas.Common
 {
     public class Response
     {

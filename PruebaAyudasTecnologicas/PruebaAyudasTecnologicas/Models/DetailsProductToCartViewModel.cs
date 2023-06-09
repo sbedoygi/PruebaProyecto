@@ -1,8 +1,8 @@
-﻿using AyudasTecnologicas.DAL.Entities;
+﻿using PruebaAyudasTecnologicas.DAL.Entities;
 
 using System.ComponentModel.DataAnnotations;
 
-namespace ECommerce_Sat.Models
+namespace PruebaAyudasTecnologicas.Models
 {
     public class DetailsProductToCartViewModel : Entity
     {

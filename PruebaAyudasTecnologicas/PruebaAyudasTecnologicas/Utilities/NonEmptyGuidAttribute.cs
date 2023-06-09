@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace AyudasTecnologicas.Utilities
+namespace PruebaAyudasTecnologicas.Utilities
 {
     public class NonEmptyGuidAttribute : ValidationAttribute
     {

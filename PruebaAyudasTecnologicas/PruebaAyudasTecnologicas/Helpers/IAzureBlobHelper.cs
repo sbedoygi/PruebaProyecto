@@ -1,4 +1,4 @@
-﻿namespace AyudasTecnologicas.Helpers
+﻿namespace PruebaAyudasTecnologicas.Helpers
 {
     public interface IAzureBlobHelper
     {

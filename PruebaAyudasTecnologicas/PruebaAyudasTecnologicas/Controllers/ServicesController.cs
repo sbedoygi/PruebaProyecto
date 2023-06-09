@@ -1,5 +1,5 @@
-﻿using AyudasTecnologicas.DAL;
-using AyudasTecnologicas.DAL.Entities;
+﻿using PruebaAyudasTecnologicas.DAL;
+using PruebaAyudasTecnologicas.DAL.Entities;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using System.Data;
 
 
-namespace AyudasTecnologicas.Controllers
+namespace PruebaAyudasTecnologicas.Controllers
 {
     [Authorize(Roles = "Admin")]
     public class ServicesController : Controller

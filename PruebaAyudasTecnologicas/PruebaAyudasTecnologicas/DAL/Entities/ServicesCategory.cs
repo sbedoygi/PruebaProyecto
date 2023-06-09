@@ -1,4 +1,4 @@
-﻿namespace AyudasTecnologicas.DAL.Entities
+﻿namespace PruebaAyudasTecnologicas.DAL.Entities
 {
     public class ServicesCategory : Entity
     {

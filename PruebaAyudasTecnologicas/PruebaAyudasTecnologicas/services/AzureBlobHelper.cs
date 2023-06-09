@@ -1,7 +1,7 @@
-﻿using AyudasTecnologicas.Helpers;
+﻿using PruebaAyudasTecnologicas.Helpers;
 using Microsoft.WindowsAzure.Storage;
 using Microsoft.WindowsAzure.Storage.Blob;
-namespace AyudasTecnologicas.services
+namespace PruebaAyudasTecnologicas.services
 {
     public class AzureBlobHelper : IAzureBlobHelper
     {

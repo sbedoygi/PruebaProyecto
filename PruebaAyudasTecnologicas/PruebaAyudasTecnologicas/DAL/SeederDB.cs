@@ -1,10 +1,10 @@
-﻿using AyudasTecnologicas.DAL.Entities;
-using AyudasTecnologicas.Enum;
-using AyudasTecnologicas.Helpers;
-using AyudasTecnologicas.services;
+﻿using PruebaAyudasTecnologicas.DAL.Entities;
+using PruebaAyudasTecnologicas.Enum;
+using PruebaAyudasTecnologicas.Helpers;
+using PruebaAyudasTecnologicas.services;
 using Microsoft.EntityFrameworkCore;
 
-namespace AyudasTecnologicas.DAL
+namespace PruebaAyudasTecnologicas.DAL
 {
     public class SeederDb
     {

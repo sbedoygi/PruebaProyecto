@@ -1,8 +1,8 @@
-﻿using AyudasTecnologicas.Common;
-using AyudasTecnologicas.Models;
+﻿using PruebaAyudasTecnologicas.Common;
+using PruebaAyudasTecnologicas.Models;
 
 
-namespace AyudasTecnologicas.Helpers
+namespace PruebaAyudasTecnologicas.Helpers
 {
     public interface IOrderHelper
     {

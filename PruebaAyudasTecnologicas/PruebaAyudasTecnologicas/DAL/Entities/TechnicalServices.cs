@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.Xml.Linq;
 
-namespace AyudasTecnologicas.DAL.Entities
+namespace PruebaAyudasTecnologicas.DAL.Entities
 {
    
         public class TechnicalServices : Entity
